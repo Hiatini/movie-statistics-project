@@ -12,3 +12,8 @@ I decided to start my research by exploring some data about films and documentar
 * year: year the film premiered
 * runtime: length of the film in minutes
 * score: film rating of 1 to 10 (worst to best) from the website IMDb
+
+## Individual Variables
+### Language
+
+Firstly, I decide to start with the language variable. The table that follows gives the count of films in ach language. 
