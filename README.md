@@ -42,3 +42,11 @@ Building on the insights from the first question, let's consider the films label
 
 The majority of films containing multiple languages are documentaries. It can be hypothesized that since this is a work of research, analysis and entertainment, the aim is to share documentaries with as many people as possible. 
 
+### Genre
+
+The next question concerns the film genre. What is the most popular genre and what is the proportion of this genre? 
+
+![Capture d’écran 2024-01-04 à 22 00 15](https://github.com/Hiatini/movie-statistics-project/assets/101217055/43624436-32e0-490a-beb8-509a90d01e1d)
+
+The three best-known genres are Documentary, Comedy and Drama. Documentaries have a percentage of 30%, in other words, 30% of the films present are documentaries. 
+
