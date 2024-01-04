@@ -38,5 +38,7 @@ Building on the insights from the first question, let's consider the films label
 
 4. Just for Fun: About 2,5% of the films have multiple primary languages. Let's find out which genres tend to have this interesting feature. First, let's see our code :
 
+![Capture d’écran 2024-01-04 à 21 40 30](https://github.com/Hiatini/movie-statistics-project/assets/101217055/777d779b-91af-4300-bbff-bcea6bc032df)
+
 The majority of films containing multiple languages are documentaries. It can be hypothesized that since this is a work of research, analysis and entertainment, the aim is to share documentaries with as many people as possible. 
 
