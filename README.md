@@ -36,7 +36,7 @@ With a ratio of 401/160, we find that there are almost 5 English films for every
 
 Building on the insights from the first question, let's consider the films labeled as 'multiples.' The division of 23 by 584 results in approximately 0.039, indicating that about 3% of the movies feature languages other than English, Spanish, French, Hindi, etc.
 
-4. Just for Fun: About 4% of the films have multiple primary languages. Let's find out which genres tend to have this interesting feature. First, let's see our code :
+4. Just for Fun: About 2,5% of the films have multiple primary languages. Let's find out which genres tend to have this interesting feature. First, let's see our code :
 
 ![Capture d’écran 2024-01-04 à 15 37 22](https://github.com/Hiatini/movie-statistics-project/assets/101217055/34b19609-2572-434d-8683-1f9f7aa7e332)
 
