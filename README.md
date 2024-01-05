@@ -42,6 +42,10 @@ Building on the insights from the first question, let's consider the films label
 
 The majority of films containing multiple languages are documentaries. It can be hypothesized that since this is a work of research, analysis and entertainment, the aim is to share documentaries with as many people as possible. 
 
+### IMDb Score
+
+
+
 ### Genre
 
 The next question concerns the film genre. What is the most popular genre and what is the proportion of this genre? 
@@ -57,3 +61,4 @@ Let's make a runtime histogram to understand how long most movies are.
 ![Capture d’écran 2024-01-04 à 23 06 42](https://github.com/Hiatini/movie-statistics-project/assets/101217055/222f2a88-849d-44d0-ab4b-c7ea80ff455c)
 
 The mean runtime is 100 minutes with a standard deviation of 27.76 minutes. This means that most films are around 100 minutes long, but individual films might be as short as around 72.24 minutes or as long as around 127.76 minutes. The standard deviation helps you understand the range of variation in film runtimes.
+
