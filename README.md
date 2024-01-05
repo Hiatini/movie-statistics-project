@@ -48,6 +48,13 @@ Are most films rated around the same score? Are there some extremely low or high
 
 ![Capture d’écran 2024-01-06 à 00 06 42](https://github.com/Hiatini/movie-statistics-project/assets/101217055/2834bdf0-7d13-4ce2-a1a6-fc9971251b3f)
 
+The mean IMDb Score is 6.27 with a standard deviation of 0.98. This means that most IMDb Score films are around 6.27, but individual IMDb Score films might be as short as around 7.25 or as long as around 5.29. The standard deviation helps you understand the range of variation in IMDb Score films.
+
+Now, let's find out which films got the highest and lowest IMDb scores!
+
+![Capture d’écran 2024-01-06 à 00 39 19](https://github.com/Hiatini/movie-statistics-project/assets/101217055/1f618e87-605b-4fce-b187-7b6b0aa40f21)
+
+![Capture d’écran 2024-01-06 à 00 39 36](https://github.com/Hiatini/movie-statistics-project/assets/101217055/2aff6452-8ce4-49c6-bb57-f2fcb50746c4)
 
 ### Genre
 
@@ -63,5 +70,10 @@ Let's make a runtime histogram to understand how long most movies are.
 
 ![Capture d’écran 2024-01-04 à 23 06 42](https://github.com/Hiatini/movie-statistics-project/assets/101217055/222f2a88-849d-44d0-ab4b-c7ea80ff455c)
 
-The mean runtime is 100 minutes with a standard deviation of 27.76 minutes. This means that most films are around 100 minutes long, but individual films might be as short as around 72.24 minutes or as long as around 127.76 minutes. The standard deviation helps you understand the range of variation in film runtimes.
+The mean runtime is 100 minutes with a standard deviation of 27.76 minutes. This means that most films are around 100 minutes long, but individual films might be as short as around 72.24 minutes or as long as around 127.76 minutes. These measurements are not wrong, but they don’t help us do a good job of summarizing what we’re seeing in the distribution.
+
+![Capture d’écran 2024-01-06 à 00 48 29](https://github.com/Hiatini/movie-statistics-project/assets/101217055/bc13efcb-12b5-4761-8ad5-b805e46b0506)
+
+On the contrary, the median characterizes a runtime that is higher and represents the most typical scenario. The low Interquartile Range (IQR) suggests that half of the values are relatively close to the central value. These descriptions align well with the substantial concentration of values around 100, as observed in the distribution plot.
+Given that the mean is lower than the median, it appears that the left-skew has a more pronounced impact on the mean than the potential outlier on the higher end.
 
