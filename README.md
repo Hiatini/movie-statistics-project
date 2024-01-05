@@ -46,7 +46,14 @@ The majority of films containing multiple languages are documentaries. It can be
 
 The next question concerns the film genre. What is the most popular genre and what is the proportion of this genre? 
 
-![Capture d’écran 2024-01-04 à 22 00 15](https://github.com/Hiatini/movie-statistics-project/assets/101217055/43624436-32e0-490a-beb8-509a90d01e1d)
+![Capture d’écran 2024-01-04 à 22 05 19](https://github.com/Hiatini/movie-statistics-project/assets/101217055/ede57685-7f4a-482a-b1dd-f4ed6cdd6e94)
 
 The three best-known genres are Documentary, Comedy and Drama. Documentaries have a percentage of 30%, in other words, 30% of the films present are documentaries. 
 
+### Runtime 
+
+Let's make a runtime histogram to understand how long most movies are.
+
+![Capture d’écran 2024-01-04 à 23 06 42](https://github.com/Hiatini/movie-statistics-project/assets/101217055/222f2a88-849d-44d0-ab4b-c7ea80ff455c)
+
+The mean runtime is 100 minutes with a standard deviation of 27.76 minutes. This means that most films are around 100 minutes long, but individual films might be as short as around 72.24 minutes or as long as around 127.76 minutes. The standard deviation helps you understand the range of variation in film runtimes.
