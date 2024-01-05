@@ -44,6 +44,9 @@ The majority of films containing multiple languages are documentaries. It can be
 
 ### IMDb Score
 
+Are most films rated around the same score? Are there some extremely low or high scores?
+
+![Capture d’écran 2024-01-06 à 00 06 42](https://github.com/Hiatini/movie-statistics-project/assets/101217055/2834bdf0-7d13-4ce2-a1a6-fc9971251b3f)
 
 
 ### Genre
