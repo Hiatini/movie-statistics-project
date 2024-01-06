@@ -77,3 +77,8 @@ The mean runtime is 100 minutes with a standard deviation of 27.76 minutes. This
 On the contrary, the median characterizes a runtime that is higher and represents the most typical scenario. The low Interquartile Range (IQR) suggests that half of the values are relatively close to the central value. These descriptions align well with the substantial concentration of values around 100, as observed in the distribution plot.
 Given that the mean is lower than the median, it appears that the left-skew has a more pronounced impact on the mean than the potential outlier on the higher end.
 
+## Relationships
+
+### IMDb Score by Genre
+
+![Uploading Capture d’écran 2024-01-06 à 23.35.36.png…]()
