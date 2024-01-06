@@ -48,7 +48,7 @@ Are most films rated around the same score? Are there some extremely low or high
 
 ![Capture d’écran 2024-01-06 à 00 06 42](https://github.com/Hiatini/movie-statistics-project/assets/101217055/2834bdf0-7d13-4ce2-a1a6-fc9971251b3f)
 
-The mean IMDb Score is 6.27 with a standard deviation of 0.98. This means that most IMDb Score films are around 6.27, but individual IMDb Score films might be as short as around 7.25 or as long as around 5.29. The standard deviation helps you understand the range of variation in IMDb Score films.
+The mean IMDb Score is 6.27 with a standard deviation of 0.98. This means that most IMDb Score films are around 6.27, but individual IMDb Score films might be as short as around 7.25 or as long as around 5.29. The standard deviation helps you understand the range of variation in IMDb Score films. If a distribution exhibits a relatively symmetrical pattern without significant outliers, the mean serves as a reliable indicator of a "typical" value, while the standard deviation informs us whether most scores cluster around this typical value or if there is a broad range of scores.
 
 Now, let's find out which films got the highest and lowest IMDb scores!
 
