@@ -81,4 +81,11 @@ Given that the mean is lower than the median, it appears that the left-skew has 
 
 ### IMDb Score by Genre
 
+We want to know if any genres have particularly high IMDb scores, so you look at a table of means and standard deviations of IMDb scores for each genre. 
+
 ![Uploading Capture d’écran 2024-01-06 à 23.35.36.png…]()
+
+### Runtime by Language
+
+You are exploring whether there are variations in the duration of movies based on different languages.
+![Capture d’écran 2024-01-08 à 00 08 00](https://github.com/Hiatini/movie-statistics-project/assets/101217055/37bd31b2-7531-44f6-a65d-34b6e9d58195)
