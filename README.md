@@ -1,4 +1,4 @@
-# 📌 Movie Statistic Project : Using Netflix 
+![image](https://github.com/Hiatini/movie-statistics-project/assets/101217055/bbf2a6b1-6451-41d7-a737-6a9241fc0728)![image](https://github.com/Hiatini/movie-statistics-project/assets/101217055/fe2cd7bb-f045-4f96-8662-15b33bc9c6de)# 📌 Movie Statistic Project : Using Netflix 
 
 As part of this project, I'm tasked with researching the content produced by streaming services, particularly Netflix, over the past few years. I'm gathering information for a report on the types of films being produced, as well as trends worth exploring further. 
 
@@ -98,7 +98,9 @@ In simpler terms, if you watch an English film, you can expect the duration to b
 Therefore, a higher standard deviation suggests a greater variability of values around the mean, while a lower standard deviation implies less dispersion.
 
 The strength of a linear relationship between variables is reflected in the appearance of the scatter plot. A strong positive relationship is evident when points form a pattern from the bottom-left to the top-right of the plot, while a strong negative relationship is characterized by points running from the bottom-right to the top-left. Example : 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.investopedia.com%2Fask%2Fanswers%2F032515%2Fwhat-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp&psig=AOvVaw2nJfFytmDiU07AswlCapk6&ust=1704837694003000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDj7rvlzoMDFQAAAAAdAAAAABAE![image](https://github.com/Hiatini/movie-statistics-project/assets/101217055/e73fdb97-8584-4098-8892-8fb443c55009)
+
+![image](https://www.investopedia.com/thmb/2b8kkUpoknl2tKdZfbsCzI-2X54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TC_3126228-how-to-calculate-the-correlation-coefficient-5aabeb313de423003610ee40.png)
+
 
 In this case, the scatter plot does not display a clear linear relationship between the two variables. Instead, it predominantly exhibits a cluster of points without a distinct line shape.
 
