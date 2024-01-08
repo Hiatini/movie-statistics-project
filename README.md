@@ -88,4 +88,25 @@ We want to know if any genres have particularly high IMDb scores, so you look at
 ### Runtime by Language
 
 You are exploring whether there are variations in the duration of movies based on different languages.
-![Capture d’écran 2024-01-08 à 00 08 00](https://github.com/Hiatini/movie-statistics-project/assets/101217055/37bd31b2-7531-44f6-a65d-34b6e9d58195)
+
+![Capture d’écran 2024-01-08 à 23 00 05](https://github.com/Hiatini/movie-statistics-project/assets/101217055/79628227-8f78-457b-a6d6-861672b0c32b)
+
+In the "English" category with an average duration of approximately 91.82 minutes and a standard deviation of around 28.51 minutes, this implies that the duration of English films can typically vary by about 28.51 minutes around the mean.
+
+In simpler terms, if you watch an English film, you can expect the duration to be close to 91.82 minutes. However, due to the typical variation of 28.51 minutes, some films may be shorter (e.g., around 63.31 minutes), and others may be longer (e.g., around 120.33 minutes). The standard deviation quantifies this spread, providing an indication of the variability in film durations within the language category.
+
+Therefore, a higher standard deviation suggests a greater variability of values around the mean, while a lower standard deviation implies less dispersion.
+
+The strength of a linear relationship between variables is reflected in the appearance of the scatter plot. A strong positive relationship is evident when points form a pattern from the bottom-left to the top-right of the plot, while a strong negative relationship is characterized by points running from the bottom-right to the top-left. Example : 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.investopedia.com%2Fask%2Fanswers%2F032515%2Fwhat-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp&psig=AOvVaw2nJfFytmDiU07AswlCapk6&ust=1704837694003000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDj7rvlzoMDFQAAAAAdAAAAABAE![image](https://github.com/Hiatini/movie-statistics-project/assets/101217055/e73fdb97-8584-4098-8892-8fb443c55009)
+
+In this case, the scatter plot does not display a clear linear relationship between the two variables. Instead, it predominantly exhibits a cluster of points without a distinct line shape.
+
+![Capture d’écran 2024-01-08 à 23 00 43](https://github.com/Hiatini/movie-statistics-project/assets/101217055/3b6791ae-827b-4a70-a61e-276dddaa4f61)
+
+There is no discernible trend indicating that lower runtimes are consistently associated with either low or high IMDb scores, and the same holds for higher runtimes. The majority of films in the dataset have runtimes ranging from 50 to 150 minutes. Across this range, IMDb scores vary between approximately 6.0 and 8.0, with no specific pattern or correlation observed.
+
+![Capture d’écran 2024-01-08 à 23 02 51](https://github.com/Hiatini/movie-statistics-project/assets/101217055/8af10a2e-9fee-4fa0-a8cc-9fc8f8325cef)
+
+The true correlation coefficient is -0.04. The sign indicates a negative relationship, but the value is so close to zero that we should conclude there's really no linear relationship between the variables.
+
