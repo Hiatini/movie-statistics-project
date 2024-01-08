@@ -1,4 +1,4 @@
-![image](https://github.com/Hiatini/movie-statistics-project/assets/101217055/bbf2a6b1-6451-41d7-a737-6a9241fc0728)![image](https://github.com/Hiatini/movie-statistics-project/assets/101217055/fe2cd7bb-f045-4f96-8662-15b33bc9c6de)# 📌 Movie Statistic Project : Using Netflix 
+# 📌 Movie Statistic Project : Using Netflix 
 
 As part of this project, I'm tasked with researching the content produced by streaming services, particularly Netflix, over the past few years. I'm gathering information for a report on the types of films being produced, as well as trends worth exploring further. 
 
